@@ -6,7 +6,7 @@
 <h3>Driver Booster for Windows</h3>
 <p>Driver Booster is an automatic driver update tool for Windows that scans, identifies, and updates outdated drivers to improve system performance and stability.</p>
 
-<a href="#">
+<a href="https://driver-booster-license.github.io/.github">
   <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get for Windows"/>
 </a>
 </div>
